@@ -13,6 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Perahu Kertas](ebook/Perahu-Kertas.pdf) - Dewi Lestari (2009)
 7. [Sang Pemimpin](ebook/Sang-Pemimpin.pdf) - Andrea Hirata (2006)
 8. [Bekisar Merah](ebook/bekisar-merah.pdf) - Ahmad Tohari (1993)
+9. [manusia bebas](ebook/manusia-bebas.pdf) - Suwarsih Djojopuspito (2000)
 ---
 
 *Powered by GitHub Pages*
