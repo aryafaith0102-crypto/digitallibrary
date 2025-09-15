@@ -15,6 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 8. [Bekisar Merah](ebook/bekisar-merah.pdf) - Ahmad Tohari (1993)
 9. [manusia bebas](ebook/manusia-bebas.pdf) - Suwarsih Djojopuspito (2000)
 10. [Manusia Indonesia](ebook/Manusia_Indonesia.pdf) - Mochtar Lubis (2013)
+11. [Ringkasan Materi VR](ebook/Ringkasan-Materi-VR.pdf) - Arya Faith Pratama (2025)
 ---
 
 *Powered by GitHub Pages*
