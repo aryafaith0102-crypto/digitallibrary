@@ -12,6 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [indonesia menggugat](ebook/soekarno-indonesia-menggugat.pdf) - Soekarno (1930)
 6. [Perahu Kertas](ebook/Perahu-Kertas.pdf) - Dewi Lestari (2009)
 7. [Sang Pemimpin](ebook/Sang-Pemimpin.pdf) - Andrea Hirata (2006)
+8. [Bekisar Merah](ebook/bekisar-merah.pdf) - Ahmad Tohari (1993)
 ---
 
 *Powered by GitHub Pages*
