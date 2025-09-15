@@ -10,6 +10,7 @@ Berikut ini adalah koleksi yang dimiliki:
 3. [Habis Gelap Terbitlah Terang](ebook/Habis-Gelap-Terbitlah-Terang.pdf) - R.A. Kartini (1911)
 4. [Madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka (1943)
 5. [indonesia menggugat](ebook/soekarno-indonesia-menggugat.pdf) - Soekarno (1930)
+6. [perahu kertas](ebook/dewi lestari-perahu kertas.pdf) - dewi lestari (2009)
 ---
 
 *Powered by GitHub Pages*
