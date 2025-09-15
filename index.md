@@ -11,6 +11,7 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [Madilog](ebook/tan-malaka-madilog.pdf) - Tan Malaka (1943)
 5. [indonesia menggugat](ebook/soekarno-indonesia-menggugat.pdf) - Soekarno (1930)
 6. [Perahu Kertas](ebook/Perahu-Kertas.pdf) - Dewi Lestari (2009)
+7. [Sang Pemimpin](ebook/Sang-Pemimpin.pdf) - Andrea Hirata (2006)
 ---
 
 *Powered by GitHub Pages*
