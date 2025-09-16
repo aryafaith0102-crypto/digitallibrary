@@ -18,6 +18,6 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Ringkasan Materi VR](ebook/Ringkasan-Materi-VR.pdf) - Arya Faith Pratama (2025)
     
 ---
-<p><a href="halaman1.html">Halaman 1</a>
+<p><a href="webti/halaman1.html">Halaman 1</a>
     
 *Powered by GitHub Pages*
