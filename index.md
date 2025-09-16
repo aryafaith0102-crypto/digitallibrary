@@ -27,4 +27,5 @@ Berikut ini adalah koleksi yang dimiliki:
 <h1><marquee direction="up"><font color="#1aff1a">halo ini halaman 1!!</marquee></font></h1> 
 <hr>
 <p><a href="halaman1.html">Halaman 1</a>|
+    
 *Powered by GitHub Pages*
